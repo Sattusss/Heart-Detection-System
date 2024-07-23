@@ -31,7 +31,7 @@ pip install -r requirements.txt
 After installation, you can run the Jupyter Notebook to explore the data, train models, and make predictions.
 
 ```bash
-jupyter notebook Heart\ Disease\ Prediction.ipynb
+jupyter notebook Heart Disease Prediction.ipynb
 ```
 
 ## Project Structure
